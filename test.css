@@ -1,0 +1,17 @@
+.color{
+    color:red
+}
+
+.nav{
+    
+}
+
+.nav li{
+    background-color:hotpink;
+    float: left;
+    list-style: none;
+}
+
+.nav li a{
+    display: inline;
+}
