@@ -1,0 +1,36 @@
+
+
+h1{
+    color:darkmagenta
+}
+
+
+
+body{
+    background-image: url(images/bg_Argyle.jpg);
+}
+
+div{
+    color:blueviolet
+
+}
+span{
+    color:darkblue
+}
+
+.manu{
+    text-align:center;
+
+}
+
+.photo-left{
+    margin: 0;
+    float: left
+}
+ul{
+clear: left
+}
+
+.img{
+    border: double green;
+}
